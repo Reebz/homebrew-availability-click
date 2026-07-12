@@ -1,6 +1,6 @@
 cask "availability-click" do
-  version "1.2.0"
-  sha256 "232fbfa4b5b5240bb45d5d8575417d79f71df4e54dd8e1a353f706b8b602489c"
+  version "1.2.1"
+  sha256 "50d600c2877b305bb1331989750d6ebd6192a93b253662b9710299691c38a1d7"
 
   url "https://github.com/Reebz/availability-click/releases/download/v#{version}/availability-click_v#{version}.dmg",
       verified: "github.com/Reebz/availability-click/"
